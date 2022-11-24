@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" /></p>
