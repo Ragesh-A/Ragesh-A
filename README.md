@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragesh-a&label=Profile%20views&color=0e75b6&style=flat" alt="ragesh-a" /> </p>
 
 - 🌱 I’m currently learning **HTML & CSS**
-- 
-
+- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragesh-a&show_icons=true&locale=en&layout=compact" alt="Ragesh-A" /></p>
 - 📫 How to reach me **ragesha2017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +21,8 @@
 
 
 <div style="display: flex; justify-content: center;">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" />
-<img  src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ragesh-a&" alt="Ragesh-A" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Ragesh-a&show_icons=true&locale=en" alt="Ragesh-A" />
 </div>
+
+
