@@ -22,6 +22,6 @@
 
 
 <div style="display: flex; justify-content: center;">
-<p><img float="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" /></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" /></p>
 </div>
