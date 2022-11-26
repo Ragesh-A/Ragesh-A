@@ -5,7 +5,7 @@
 <br><!--
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragesh-a&label=Profile%20views&color=0e75b6&style=flat" alt="ragesh-a" /> </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" /></p>
+
 - 🌱 I’m currently learning **HTML & CSS**
 - 
 
@@ -23,5 +23,5 @@
 
 <div style="display: flex; justify-content: center;">
 <p><img float="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragesh-a&" alt="ragesh-a" /></p>
-  
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ragesh-a&show_icons=true&locale=en" alt="ragesh-a" /></p>
 </div>
