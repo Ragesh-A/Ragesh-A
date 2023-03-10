@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/Ragesh-A/Ragesh-A/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ragesh-A/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
