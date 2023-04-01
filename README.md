@@ -24,7 +24,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ra/ra/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/118962921/229290573-1a868159-6c68-4421-b5e3-dafb6108a354.svg" />
+</div>
 
 ###
