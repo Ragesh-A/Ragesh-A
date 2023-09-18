@@ -5,7 +5,8 @@
 Passionate and resourceful MERN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and over the 1960+ hours, it has evolved into a deep-rooted expertise.
 
 ###
-
+<div align="justify" >
+ 
  ![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
@@ -21,6 +22,9 @@ Passionate and resourceful MERN stack developer with a solid foundation in web d
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
 ![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) 
+
+</div>
+
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ragesha2017@gmail.com)
