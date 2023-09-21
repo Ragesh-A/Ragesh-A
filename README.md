@@ -21,6 +21,7 @@ Passionate and resourceful MERN stack developer with a solid foundation in web d
 ![blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=E87D0D)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
+![sass](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=cc6699) 
 ![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) 
 
 </div>
