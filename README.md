@@ -2,7 +2,7 @@
 
 
 
-Passionate and resourceful MERN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and over the 1960+ hours, it has evolved into a deep-rooted expertise.
+Passionate and resourceful MERN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
 
 ###
 <div align="justify" >
