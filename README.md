@@ -2,13 +2,13 @@
 
 
 
-Passionate and resourceful MERN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
+Passionate and resourceful ME(A)RN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
 
 ###
 <div align="justify" >
  
- ![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![angular](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=e90364)
  ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
  ![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
  ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -22,6 +22,7 @@ Passionate and resourceful MERN stack developer with a solid foundation in web d
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) 
 ![sass](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=cc6699) 
+![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) 
 
 </div>
