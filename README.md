@@ -5,7 +5,7 @@
 Passionate and resourceful ME(A)RN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
 
 ###
-<div align="justify" >
+<div align="center" >
  
  ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![angular](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=e90364)
@@ -27,9 +27,11 @@ Passionate and resourceful ME(A)RN stack developer with a solid foundation in we
 
 </div>
 
-
+<div align="center">
+ 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ragesh.vercel.app)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ragesha2017@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ragesh-areekkal/)
 
+</div>
 
