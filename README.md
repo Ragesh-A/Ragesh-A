@@ -2,7 +2,7 @@
 
 
 
-Passionate and resourceful ME(A)RN stack developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
+Passionate and resourceful software developer with a solid foundation in web development. Based in Kerala.   My journey into the world of programming began as a personal fascination, and it has evolved into a deep-rooted expertise.
 
 ###
 <div align="center" >
