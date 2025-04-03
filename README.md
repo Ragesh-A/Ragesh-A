@@ -1,4 +1,4 @@
-![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://github.com/Ragesh-A/Ragesh-A/assets/118962921/4be79129-48cb-45d7-b8f6-7d8c6256b60a)
+![268239384-4be79129-48cb-45d7-b8f6-7d8c6256b60a](https://github.com/user-attachments/assets/1bf9af19-b1d2-4c16-a133-fda23bc587ff)
 
 
 
